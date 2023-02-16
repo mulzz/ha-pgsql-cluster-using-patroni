@@ -1,0 +1,1 @@
+# ha-pgsql-cluster-using-patroni
